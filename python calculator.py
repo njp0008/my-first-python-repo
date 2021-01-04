@@ -1,4 +1,4 @@
-# BUILDING A CALCULATOR IN PYTHON
+#Calculator
 
 num1 = float(input("Enter first number: "))
 op = input("Enter operator: ")
